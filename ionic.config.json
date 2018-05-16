@@ -1,0 +1,8 @@
+{
+  "name": "YamFam",
+  "app_id": "6435fe48",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
